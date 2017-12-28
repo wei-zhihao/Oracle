@@ -1,3 +1,2 @@
 # Oracle
-* 用于存放Oracle 代码、软件
-* 常用的oracle 脚本 
+# This project is for centos7 automation install Oracle 11 g
