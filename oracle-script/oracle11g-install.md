@@ -1,5 +1,6 @@
 
 ## This script is in centos7 install Oracle 11g
+### ALL the default password is oracle_2017
 
 ```
 #!/bin/sh
