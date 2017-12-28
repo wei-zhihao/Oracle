@@ -8,8 +8,6 @@
 #The author weizhihao
 #August 31, 2017
 
-time=`date -d today +"%Y-%m-%d %H:%M:%S"`
-
 #1、安装Oracle所需的依赖包
 sudo yum -y install  gcc gcc-c++ make binutils compat-libstdc++-33 glibc glibc-devel libaio libaio-devel libgcc libstdc++ libstdc++-devel unixODBC unixODBC-devel sysstat ksh
 
